@@ -1,0 +1,1 @@
+0 22 * * * vendor/bin/laminas sync:update-account-accesses 24
